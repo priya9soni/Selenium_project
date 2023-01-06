@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="assignment10_selenium_maven.Assi1"/>
+      <class name="assignment10_selenium_maven.Test1_TestNG_VP1"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

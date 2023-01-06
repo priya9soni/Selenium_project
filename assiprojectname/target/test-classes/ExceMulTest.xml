@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="Assi3">
+    <packages>
+    <package name="browserChrome"/>
+<package name="browserEdge"/>
+<package name="browserFF"/>
+    </packages>
+    </test>
+    <test name="Assi3">
+    
+  <packages>
+  
+   <package name="browserScript"/>
+   
+  
+   </packages>
+  </test> 
+</suite> 

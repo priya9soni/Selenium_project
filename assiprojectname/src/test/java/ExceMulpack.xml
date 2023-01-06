@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="Assi2">
+    <packages>
+    <package name="browserChrome"/>
+    <package name="browserEdge"/>
+    <package name="browserFF"/>
+    </packages>
+    
+    
+    
+      </test> <!-- Test -->
+</suite> <!-- Suite -->
